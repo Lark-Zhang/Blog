@@ -1,5 +1,5 @@
 ---
-title: 一、KSPACING和ENCUT静态自洽计算
+title: KSPACING和ENCUT静态自洽计算
 date: 2024-07-22
 tags:
   - VASP

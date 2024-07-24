@@ -1,5 +1,5 @@
 ---
-title: 二、CIPS初始训练集的创建
+title: CIPS初始训练集的创建
 date: 2024-07-23
 tags:
   - VASP
