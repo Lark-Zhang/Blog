@@ -8,6 +8,7 @@ tags:
 # 计算 ENCUT
 
 - 计算结束后查看能量信息，输出为能量的那一整行，有待优化
+
 ```bash
 # 查看所有的能量
 for i in {5..13}00
@@ -20,6 +21,7 @@ done
 ```
 - 在Python中可以使用`float`函数将科学计数法转变为浮点数，并通过`Numpy`库存为可以用于画图的`Numpy.array`格式
 	~~(感觉有些麻烦，以后有时间会进行优化)~~
+
 ```python
 import numpy as np
 

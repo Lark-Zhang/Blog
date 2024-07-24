@@ -20,6 +20,7 @@ plt.show()
 # 2.2 figure图像
 
 - 绘制两张figure
+
 ```python
 x = np.linspace(-1,1,50)
 y1 = 2*x+1
@@ -35,6 +36,7 @@ plt.show()
 ```
 
 - 绘制两个曲线在一张figure中
+
 ```python
 x = np.linspace(-1,1,50)
 y1 = 2*x+1
